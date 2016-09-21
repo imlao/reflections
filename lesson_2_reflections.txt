@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+* You create the repository putting all the configurations that git needs.
+
+How is the staging area different from the working directory and the repository?What values do you think it offers?
+
+* Takes track of the changes. It let's you see what are you changing.
