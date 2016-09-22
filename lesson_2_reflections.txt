@@ -21,3 +21,7 @@ organized? How would branches help?
 
 * Experimental changes, new technologies. Keep the code separated from the 
 regular code.
+
+How do the diagrams help you visualize the branch structure?
+
+* It's easier to see the relations between commits and branches.
