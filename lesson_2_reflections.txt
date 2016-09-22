@@ -31,3 +31,9 @@ the diagram the way we do?
 
 * A new commit with the changes of both branches in one. So we can visualize
 from where the commit comes.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges 
+manually?
+
+* pros: it's really easy
+* cons: Sometimes appear conflicts
