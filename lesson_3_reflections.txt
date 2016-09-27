@@ -9,3 +9,6 @@ one instead of another?
 * clone: To copy a remote or local repository to local
 * branch: To separate my nexte changes from the actual branch
 * fork: To copy someone else's repository to my GitHub account
+
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
